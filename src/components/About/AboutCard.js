@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             <br />
             Currently I am working as SDE @Amazon
-            <br/> Previuosly I worked as a MTS(member of Technical Staff) @Athenahealth
+            <br/> Previuosly I worked as a MTS (Member Of Technical Staff) @Athenahealth
           </p>
           <ul>
             <li className="about-activity">
